@@ -32,7 +32,7 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rys-Services/tsuki-bot.git
+   git clone https://github.com/Rift-Services/tsuki-bot.git
    cd your-folder
    ```
 
