@@ -47,4 +47,4 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 npm run start
 ```
 
-system powered by @rys-services
+system powered by @rift-services
