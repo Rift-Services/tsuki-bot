@@ -1,4 +1,4 @@
-# 🤖 RYS Services – Ticket System
+# 🤖 RIFT Services – Ticket System
 
 This is a Discord bot featuring a ticket system with transcripts and an blacklist system.
 
